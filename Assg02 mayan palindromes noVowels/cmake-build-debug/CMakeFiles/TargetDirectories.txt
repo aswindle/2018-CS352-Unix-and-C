@@ -1,0 +1,6 @@
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/CMakeFiles/mayan.dir
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/CMakeFiles/noVowels.dir
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/CMakeFiles/Assignment_2.dir
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/CMakeFiles/palindromes.dir

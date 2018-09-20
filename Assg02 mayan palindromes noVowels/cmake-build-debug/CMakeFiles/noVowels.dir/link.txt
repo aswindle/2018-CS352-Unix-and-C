@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/noVowels.dir/noVowels.c.o  -o noVowels.exe -Wl,--out-implib,libnoVowels.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

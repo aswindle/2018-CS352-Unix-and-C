@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mayan">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/mayan.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 mayan"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mayan/fast">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/mayan.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 mayan/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="noVowels">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/noVowels.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 noVowels"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="noVowels/fast">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/noVowels.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 noVowels/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_2">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/Assignment_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_2"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_2/fast">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/Assignment_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_2/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindromes">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/palindromes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindromes"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindromes/fast">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug/palindromes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindromes/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/main.c">
+			<Option target="Assignment_2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/mayan.c">
+			<Option target="mayan"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/noVowels.c">
+			<Option target="noVowels"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/palindromes.c">
+			<Option target="palindromes"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
