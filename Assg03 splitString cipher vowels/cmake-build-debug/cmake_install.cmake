@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg01 isFib sumDigits sumSquares/assg1
+# Install script for directory: /cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assignment 1/assg1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

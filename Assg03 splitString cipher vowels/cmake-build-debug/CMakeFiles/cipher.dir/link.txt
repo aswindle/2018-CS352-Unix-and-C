@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/cipher.dir/cipher.c.o  -o cipher.exe -Wl,--out-implib,libcipher.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

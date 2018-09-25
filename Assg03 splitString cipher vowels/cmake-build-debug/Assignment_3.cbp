@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment_3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vowels">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug/vowels.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 vowels"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="vowels/fast">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug/vowels.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 vowels/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="splitString">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug/splitString.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 splitString"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="splitString/fast">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug/splitString.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 splitString/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cipher">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug/cipher.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 cipher"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cipher/fast">
+				<Option output="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug/cipher.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 cipher/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/aswin/Google\ Drive/Coding/C/CSC\ 352\ C/Assg03\ splitString\ cipher\ vowels/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/cipher.c">
+			<Option target="cipher"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/splitString.c">
+			<Option target="splitString"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/vowels.c">
+			<Option target="vowels"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg03 splitString cipher vowels/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
