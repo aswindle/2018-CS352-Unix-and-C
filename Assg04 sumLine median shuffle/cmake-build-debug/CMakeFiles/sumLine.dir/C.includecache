@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg04 sumLine median shuffle/sumLine.c
+stdio.h
+-
+stdlib.h
+-
+

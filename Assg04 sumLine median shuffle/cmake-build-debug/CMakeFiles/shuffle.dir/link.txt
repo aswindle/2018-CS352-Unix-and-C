@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/shuffle.dir/shuffle.c.o  -o shuffle.exe -Wl,--out-implib,libshuffle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

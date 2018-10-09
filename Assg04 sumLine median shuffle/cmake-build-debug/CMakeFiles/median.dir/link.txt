@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/median.dir/median.c.o  -o median.exe -Wl,--out-implib,libmedian.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
