@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/wordCount.dir/wordCount.c.o  -o wordCount.exe -Wl,--out-implib,libwordCount.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

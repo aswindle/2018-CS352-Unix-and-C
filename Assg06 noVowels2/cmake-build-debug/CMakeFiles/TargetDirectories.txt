@@ -1,0 +1,3 @@
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg06 noVowels2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg06 noVowels2/cmake-build-debug/CMakeFiles/noVowels2.dir
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg06 noVowels2/cmake-build-debug/CMakeFiles/edit_cache.dir

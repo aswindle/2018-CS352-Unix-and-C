@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/aswin/Google Drive/Coding/C/CSC 352 C/Assg05 median2 wordCount/wordCount.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+ctype.h
+-
+

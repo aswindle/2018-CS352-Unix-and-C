@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Assg05_median2_wordCount.dir/main.c.o  -o Assg05_median2_wordCount.exe -Wl,--out-implib,libAssg05_median2_wordCount.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
