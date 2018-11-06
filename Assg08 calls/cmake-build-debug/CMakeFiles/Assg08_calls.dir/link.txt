@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Assg08_calls.dir/main.c.o  -o Assg08_calls.exe -Wl,--out-implib,libAssg08_calls.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
