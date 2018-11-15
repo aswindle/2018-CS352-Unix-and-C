@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/myMake.dir/myMake.c.o  -o myMake.exe -Wl,--out-implib,libmyMake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

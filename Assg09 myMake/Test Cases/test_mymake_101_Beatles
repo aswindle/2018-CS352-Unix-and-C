@@ -1,0 +1,19 @@
+
+  Beatles  : John Paul George      Ringo     
+	echo The Beatles
+	echo Meet the Beatles
+	echo Help
+	echo Rubber Soul
+
+John:Yoko
+	echo John
+
+Paul       :Linda   	Wings
+	echo Paul
+
+	echo Still Alive
+Linda : Wings
+	echo Linda
+
+George :
+	echo George depends on noone

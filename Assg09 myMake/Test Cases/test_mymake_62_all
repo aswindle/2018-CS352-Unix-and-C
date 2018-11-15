@@ -1,0 +1,16 @@
+all: libcs352.a test_cs352 
+
+libc.a:cs.o
+	echo "What a nice makefile"
+	ar rsc $@ $<
+
+cs.o:cs.c cs.h
+	gcc -Wall -c $< -o $@
+	ls
+
+test_cs352          :libc.a 
+	gcc cs.o -L. -lcs -o $@
+	done
+	ls -al 
+	echo "Yesss"
+

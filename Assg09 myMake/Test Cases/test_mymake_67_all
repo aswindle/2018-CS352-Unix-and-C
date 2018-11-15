@@ -1,0 +1,15 @@
+all: osproj2a  \
+     osproj2b  \
+     osproj2c 
+
+osproj2a: osproj2a.c
+	g++ osproj2a.c -o osproj2a -lpthread  
+
+osproj2b: osproj2b.c
+	g++ osproj2b.c -o osproj2b -lpthread
+
+osproj2c: osproj2c.c
+	g++ osproj2c.c -o osproj2c -lpthread
+
+clean:
+	/bin/rm -f osproj2a osproj2b osproj2c

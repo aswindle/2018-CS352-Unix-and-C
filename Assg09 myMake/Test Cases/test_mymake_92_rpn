@@ -1,0 +1,2 @@
+rpn : rpn.c
+	gcc -Wall -o rpn rpn.c

@@ -1,0 +1,2 @@
+lab5: dchlab5.c linkedStackType.h linkedQueueType.h
+	gcc dchlab5.c -o lab5

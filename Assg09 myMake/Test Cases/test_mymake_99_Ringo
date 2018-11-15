@@ -1,0 +1,8 @@
+Beatles : John Paul George Ringo
+	echo Beatles
+John : Yoko Fame
+	echo John
+Ringo : Drums
+	echo Ringo
+John : New York
+	echo What

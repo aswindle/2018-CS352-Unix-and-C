@@ -1,0 +1,10 @@
+a: b c
+	cmd 1
+	cmd 2
+b: c d
+	cmd 3
+c: d e
+	cmd 4
+	cmd5
+d: fg
+	cmd6

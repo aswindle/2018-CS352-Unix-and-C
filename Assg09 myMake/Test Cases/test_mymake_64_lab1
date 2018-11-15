@@ -1,0 +1,11 @@
+lab1: testclockType.o clockTypeImp.o
+	g++ testclockType.o clockTypeImp.o -o lab1
+
+testclockType.o: testclockType.c clockType.h
+	g++ -c testclockType.c -o testclockType.o 
+
+clockTypeImp.o: clockTypeImp.c clockType.h
+	g++ -c clockTypeImp.c -o clockTypeImp.o
+
+clear:
+	rm lab1

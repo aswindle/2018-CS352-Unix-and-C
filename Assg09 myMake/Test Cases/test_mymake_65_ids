@@ -1,0 +1,9 @@
+ids: ids.o
+	gcc ids.o -o ids
+ids.o: ids.cpp
+	gcc -c ids.c -o ids.o
+run:
+	dot -Tps inputGraph.gv -o inputGraph.ps
+	ps2pdf inputGraph.ps
+	dot -Tps outputGraph.gv -o outputGraph.ps
+	ps2pdf outputGraph.ps 

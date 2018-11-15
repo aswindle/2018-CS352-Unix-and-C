@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libgraph.h.a  CMakeFiles/graph.h.dir/graph.c.o
+/usr/bin/ranlib.exe libgraph.h.a

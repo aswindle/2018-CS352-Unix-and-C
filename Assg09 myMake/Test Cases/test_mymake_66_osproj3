@@ -1,0 +1,2 @@
+osproj3: osproj3.c
+	gcc osproj3.c -o osproj3 -lpthread

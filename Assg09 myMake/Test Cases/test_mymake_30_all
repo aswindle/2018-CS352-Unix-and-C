@@ -1,0 +1,30 @@
+
+all: libcs352.a test_cs352 
+
+libcs352.a : cs352.o
+	ar rsc $@ $<
+
+cs352.o : cs352.c cs352.h
+	gcc -Wall -c $< -o $@
+
+test_cs352 : test_cs352.o libcs352.a 
+	gcc test_cs352.o -L. -lcs352 -o $@
+
+test_cs352.o : test_cs352.c cs352.h
+	gcc -Wall -c $< -o $@
+
+
+dog: cat
+
+
+cat: mouse
+
+
+mouse: elephant
+
+
+elephant: dog
+
+
+
+
